@@ -1,21 +1,21 @@
 ## Byte 0 Standup
 
-#### --- Issy ---
+#### --- Alex ---
 Learnt -
 Struggled -
 Today –
 
-#### --- Ahmed ---
+#### --- Unai ---
 Leanrt –
 Struggled –
 Today –
 
-#### --- Ben ---
+#### --- Peter ---
 Leant –
 Struggled –
 Today –
 
-#### --- Jaiye ---
+#### --- Nigel ---
 Learnt –
 Struggled –
 Today –
@@ -25,12 +25,12 @@ Learnt –
 Struggled –
 Today –
 
-#### --- Peter ---
+#### --- Ben ---
 Learnt –
 Struggled –
 Today –
 
-#### --- Sara ---
+#### --- Slaiman ---
 Learnt –
 Struggled –
 Today –
@@ -40,22 +40,27 @@ Learnt –
 Struggled - -
 Today –
 
-#### --- Bailey ---
+#### --- Adam ---
 Learnt –
 Struggled –
 Today -
 
-#### --- Anthony ---
+#### --- Will ---
 Learnt –
 Struggled –
 Today –
 
-#### --- Hendrik ---
+#### --- Tim ---
 Leanrt –
 Struggled –
 Today –
 
-#### --- Alex ---
+#### --- Anthony ---
+Leanrt –
+Struggle –
+Today -
+
+#### --- Filipe ---
 Leanrt –
 Struggle –
 Today -
